@@ -1,6 +1,6 @@
 {
   "name": "schema-render-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue component form based on JSON Schema",
   "main": "dist/SchemaRenderVue.esm.js",
   "browser": "dist/SchemaRenderVue.umd.min.js",
